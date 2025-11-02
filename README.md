@@ -588,7 +588,7 @@ int main() {
 Program ini merupakan implementasi sistem antrian pembeli menggunakan struktur data singly linked list dalam bahasa C++. Setiap pembeli direpresentasikan sebagai node yang menyimpan nama dan menu pesanan, serta pointer yang menghubungkan ke pembeli berikutnya. Program ini memiliki empat fitur utama, yaitu menambah pembeli ke dalam antrian, melayani pembeli terdepan, menampilkan seluruh daftar antrian, dan mencari pembeli berdasarkan nama. Proses penambahan dilakukan di bagian belakang antrian, sedangkan pelayanan menghapus data dari bagian depan dengan prinsip FIFO (First In First Out). Dengan penggunaan pointer, program ini memungkinkan pengelolaan antrian secara dinamis tanpa batasan ukuran tetap seperti array.
        
 > Output
-> ![Screenshot bagian x](ssmodul5unguided1.png)
+> ![Screenshot bagian x](ssunguided1.modul5.png)
 
 ### Soal 2
 
@@ -783,7 +783,7 @@ Program di atas merupakan program manajemen data buku menggunakan struktur data 
 
 
 > Output
-> ![Screenshot bagian x](ssmodul5unguided2.png)
+> ![Screenshot bagian x](ssunguided2.modul5.png)
 
 
 ## Referensi
