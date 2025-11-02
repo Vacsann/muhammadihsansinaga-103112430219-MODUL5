@@ -779,7 +779,7 @@ int main() {
 }
 
 ```
-Kode di atas merupakan program manajemen data buku menggunakan struktur data Singly Linked List dalam bahasa C++. Setiap data buku disimpan dalam node yang berisi informasi ISBN, judul, dan penulis, serta pointer menuju node berikutnya. Program ini menyediakan berbagai fitur seperti menambah buku baru, menghapus data berdasarkan ISBN, memperbarui informasi buku, menampilkan seluruh daftar buku, serta mencari buku berdasarkan ISBN, judul, atau penulis. Semua operasi dilakukan secara dinamis tanpa batas ukuran, karena data disimpan menggunakan linked list. Melalui menu interaktif di fungsi main(), pengguna dapat mengelola data buku dengan mudah, dan setiap perubahan langsung diterapkan pada struktur linked list.
+Program di atas merupakan program manajemen data buku menggunakan struktur data Singly Linked List dalam bahasa C++. Setiap data buku disimpan dalam node yang berisi informasi ISBN, judul, dan penulis, serta pointer menuju node berikutnya. Program ini menyediakan berbagai fitur seperti menambah buku baru, menghapus data berdasarkan ISBN, memperbarui informasi buku, menampilkan seluruh daftar buku, serta mencari buku berdasarkan ISBN, judul, atau penulis. Semua operasi dilakukan secara dinamis tanpa batas ukuran, karena data disimpan menggunakan linked list. Melalui menu interaktif di fungsi main(), pengguna dapat mengelola data buku dengan mudah, dan setiap perubahan langsung diterapkan pada struktur linked list.
 
 
 > Output
